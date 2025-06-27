@@ -1,0 +1,942 @@
+{
+	"metadata": {
+		"id_organismo": 0,
+		"organismo": "",
+		"formato": "COMPLETA",
+		"tipo": "MODIFICACION",
+		"fechaPresentacion": "YYYY-MM-DD",
+		"anio": 2025,
+		"actualizacionConflictoInteres": false
+	},
+	"declaracion": {
+		"situacionPatrimonial": {
+			"datosGenerales": {
+				"nombre": "",
+				"primerApellido": "",
+				"segundoApellido": "",
+				"curp": "",
+				"rfc": {
+					"rfc": "",
+					"homoClave": "XXX"
+				},
+				"correoElectronico": {
+					"institucional": "",
+					"personal": ""
+				},
+				"telefono": {
+					"casa": "",
+					"celularPersonal": ""
+				},
+				"situacionPersonalEstadoCivil": {
+					"clave": "SOL",
+					"valor": "SOLTERO (A)"
+				},
+				"regimenMatrimonial": {
+					"clave": "OTR",
+					"valor": "OTRO"
+				},
+				"paisNacimiento": "MX",
+				"nacionalidad": "MX",
+				"aclaracionesObservaciones": ""
+			},
+			"domicilioDeclarante": {
+				"domicilioMexico": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"coloniaLocalidad": "",
+					"municipioAlcaldia": {
+						"clave": "101",
+						"valor": "Tuxtla Gutiérrez"
+					},
+					"entidadFederativa": {
+						"clave": "07",
+						"valor": "Chiapas"
+					},
+					"codigoPostal": "XXXXX"
+				},
+				"domicilioExtranjero": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"ciudadLocalidad": "",
+					"estadoProvincia": "",
+					"pais": "MX",
+					"codigoPostal": ""
+				},
+				"aclaracionesObservaciones": "",
+				"domicilio": "MX"
+			},
+			"datosCurricularesDeclarante": {
+				"ninguno": false,
+				"escolaridad": [
+					{
+					"tipoOperacion": "AGREGAR",
+					"nivel": {
+					  "clave": "LIC",
+					  "valor": "LICENCIATURA"
+					},
+					"institucionEducativa": {
+					  "nombre": "",
+					  "ubicacion": "MX"
+					},
+					"carreraAreaConocimiento": "",
+					"estatus": "",
+					"documentoObtenido": "",
+					"fechaObtencion": "YYYY-MM-DD"
+				  }
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"datosEmpleoCargoComision": {
+				"tipoOperacion": "",
+				"nivelOrdenGobierno": "",
+				"ambitoPublico": "",
+				"nombreEntePublico": "",
+				"areaAdscripcion": "",
+				"empleoCargoComision": "",
+				"contratadoPorHonorarios": false,
+				"nivelEmpleoCargoComision": "",
+				"funcionPrincipal": "",
+				"fechaTomaPosesion": "",
+				"telefonoOficina": {
+					"telefono": "",
+					"extension": ""
+				},
+				"domicilioMexico": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"coloniaLocalidad": "",
+					"municipioAlcaldia": {
+						"clave": "101",
+						"valor": "Tuxtla Gutiérrez"
+					},
+					"entidadFederativa": {
+						"clave": "07",
+						"valor": "Chiapas"
+					},
+					"codigoPostal": "XXXXX"
+				},
+				"domicilioExtranjero": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"ciudadLocalidad": "",
+					"estadoProvincia": "",
+					"pais": "MX",
+					"codigoPostal": ""
+				},
+				"aclaracionesObservaciones": "",
+				"domicilio": "MX",
+				"cuentaConOtroCargoPublico": false,
+				"otroEmpleoCargoComision": {}
+			},
+			"experienciaLaboral": {
+				"ninguno": false,
+				"experiencia": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"ambitoSector": {
+							"clave": "PUB",
+							"valor": "PÚBLICO"
+						},
+						"nivelOrdenGobierno": "",
+						"ambitoPublico": "",
+						"nombreEntePublico": "",
+						"areaAdscripcion": "",
+						"empleoCargoComision": "",
+						"funcionPrincipal": "",
+						"fechaIngreso": "YYYY-MM-DD",
+						"fechaEgreso": "YYYY-MM-DD",
+						"ubicacion": "MX"
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"datosPareja": {
+				"ninguno": false,
+				"tipoOperacion": "AGREGAR",
+				"nombre": "",
+				"primerApellido": "",
+				"segundoApellido": "",
+				"fechaNacimiento": "",
+				"rfc": "",
+				"relacionConDeclarante": "",
+				"ciudadanoExtranjero": false,
+				"curp": "",
+				"esDependienteEconomico": true,
+				"habitaDomicilioDeclarante": true,
+				"lugarDondeReside": "MÉXICO",
+				"domicilioMexico": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"coloniaLocalidad": "",
+					"municipioAlcaldia": {
+						"clave": "101",
+						"valor": "Tuxtla Gutiérrez"
+					},
+					"entidadFederativa": {
+						"clave": "07",
+						"valor": "Chiapas"
+					},
+					"codigoPostal": ""
+				},
+				"domicilioExtranjero": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"ciudadLocalidad": "",
+					"estadoProvincia": "",
+					"pais": "MX",
+					"codigoPostal": ""
+				},
+				"actividadLaboral": {
+					"clave": "PUB",
+					"valor": "PÚBLICO"
+				},
+				"actividadLaboralSectorPublico": {
+					"nivelOrdenGobierno": "",
+					"ambitoPublico": "",
+					"nombreEntePublico": "",
+					"areaAdscripcion": "",
+					"empleoCargoComision": "",
+					"funcionPrincipal": "",
+					"salarioMensualNeto": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"fechaIngreso": "YYYY-MM-DD"
+				},
+				"actividadLaboralSectorPrivadoOtro": {
+					"nombreEmpresaSociedadAsociacion": "",
+					"empleoCargoComision": "",
+					"rfc": "",
+					"fechaIngreso": "",
+					"sector": {
+						"clave": "AGRI",
+						"valor": "AGRICULTURA"
+					},
+					"salarioMensualNeto": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"proveedorContratistaGobierno": false
+				},
+				"aclaracionesObservaciones": ""
+			},
+			"datosDependienteEconomico": {
+				"ninguno": false,
+				"dependienteEconomico": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"nombre": "",
+						"primerApellido": "",
+						"segundoApellido": "",
+						"fechaNacimiento": "YYYY-MM-DD",
+						"rfc": "",
+						"parentescoRelacion": {
+							"clave": "MAD",
+							"valor": "MADRE"
+						},
+						"extranjero": false,
+						"curp": "",
+						"habitaDomicilioDeclarante": true,
+						"lugarDondeReside": "MÉXICO",
+						"domicilioMexico": {
+							"calle": "",
+							"numeroExterior": "",
+							"numeroInterior": "",
+							"coloniaLocalidad": "",
+							"municipioAlcaldia": {
+								"clave": "",
+								"valor": ""
+							},
+							"entidadFederativa": {
+								"clave": "07",
+								"valor": "CHIAPAS"
+							},
+							"codigoPostal": "00000"
+						},
+						"domicilioExtranjero": {
+							"calle": "",
+							"numeroExterior": "",
+							"numeroInterior": "",
+							"ciudadLocalidad": "",
+							"estadoProvincia": "",
+							"pais": "AF",
+							"codigoPostal": ""
+						},
+						"actividadLaboral": {
+							"clave": "PRI",
+							"valor": "PRIVADO"
+						},
+						"actividadLaboralSectorPublico": {
+							"nivelOrdenGobierno": "FEDERAL",
+							"ambitoPublico": "EJECUTIVO",
+							"nombreEntePublico": "",
+							"areaAdscripcion": "",
+							"empleoCargoComision": "",
+							"funcionPrincipal": "",
+							"salarioMensualNeto": {
+								"valor": "",
+								"moneda": "MXN"
+							},
+							"fechaIngreso": "YYYY-MM-DD"
+						},
+						"actividadLaboralSectorPrivadoOtro": {
+							"nombreEmpresaSociedadAsociacion": "",
+							"rfc": "",
+							"empleoCargo": "",
+							"fechaIngreso": "YYYY-MM-DD",
+							"salarioMensualNeto": {
+								"valor": "0",
+								"moneda": "MXN"
+							}
+						},
+						"proveedorContratistaGobierno": false,
+						"sector": {
+							"clave": "AGRI",
+							"valor": "AGRICULTURA"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"ingresos": {
+				"remuneracionAnualCargoPublico": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"otrosIngresosAnualesTotal": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"actividadIndustrialComercialEmpresarial": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"actividades": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"nombreRazonSocial": "",
+							"tipoNegocio": ""
+						}
+					]
+				},
+				"actividadFinanciera": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"actividades": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"tipoInstrumento": {
+								"clave": "CAP",
+								"valor": "CAPITAL"
+							}
+						}
+					]
+				},
+				"serviciosProfesionales": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"servicios": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"tipoServicio": ""
+						}
+					]
+				},
+				"enajenacionBienes": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"bienes": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"tipoBienEnajenado": ""
+						}
+					]
+				},
+				"otrosIngresos": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"ingresos": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"tipoIngreso": ""
+						}
+					]
+				},
+				"ingresoAnualNetoDeclarante": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"ingresoAnualNetoParejaDependiente": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"totalIngresosAnualesNetos": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"aclaracionesObservaciones": ""
+			},
+			"bienesInmuebles": {
+				"ninguno": false,
+				"bienInmueble": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"titular": [
+							{
+								"clave": "DEC",
+								"valor": "DECLARANTE"
+							},
+							{
+								"clave": "CYG",
+								"valor": "CÓNYUGE"
+							}
+						],
+						"tipoBien": {
+							"clave": "MECA",
+							"valor": "MENAJE DE CASA (MUEBLES Y ACCESORIOS DE CASA)"
+						},
+						"transmisor": [
+							{
+								"tipoPersona": "FISICA",
+								"nombreRazonSocial": "",
+								"rfc": "",
+								"relacion": {
+									"clave": "HER",
+									"valor": "HERMANO(A)"
+								}
+							}
+						],
+						"tercero": [
+							{
+								"tipoPersona": "FISICA",
+								"nombreRazonSocial": "",
+								"rfc": ""
+							}
+						],
+						"descripcionGeneralBien": "DEMO",
+						"formaAdquisicion": {
+							"clave": "STC",
+							"valor": "SENTENCIA"
+						},
+						"formaPago": "NO APLICA",
+						"valorAdquisicion": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"fechaAdquisicion": "YYYY-MM-DD",
+						"motivoBaja": {
+							"clave": "NA",
+							"valor": "NO APLICA"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"vehiculos": {
+				"ninguno": false,
+				"vehiculo": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"titular": [
+							{
+								"clave": "DEC",
+								"valor": "DECLARANTE"
+							},
+							{
+								"clave": "CYG",
+								"valor": "CÓNYUGE"
+							}
+						],
+						"tipoVehiculo": {
+							"clave": "AUMOT",
+							"valor": "AUTOMÓVIL/MOTOCICLETA"
+						},
+						"transmisor": [
+							{
+								"tipoPersona": "FISICA",
+								"nombreRazonSocial": "",
+								"rfc": "",
+								"relacion": {
+									"clave": "HER",
+									"valor": "HERMANO(A)"
+								}
+							}
+						],
+						"tercero": [
+							{
+								"tipoPersona": "FISICA",
+								"nombreRazonSocial": "",
+								"rfc": ""
+							}
+						],
+						"marca": "FORD",
+						"modelo": "SENTRA",
+						"anio": "2020",
+						"numeroSerieRegistro": "",
+						"lugarRegistro": {
+							"pais": "MX",
+							"entidadFederativa": {
+								"clave": "07",
+								"valor": "Chiapas"
+							}
+						},
+						"formaAdquisicion": {
+							"clave": "CPV",
+							"valor": "COMPRAVENTA"
+						},
+						"formaPago": "CRÉDITO",
+						"valorAdquisicion": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"fechaAdquisicion": "YYYY-MM-DD",
+						"motivoBaja": {
+							"clave": "OTRO",
+							"valor": "XXX"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"bienesMuebles": {
+				"ninguno": false,
+				"bienMueble": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"titular": [
+							{
+								"clave": "DEC",
+								"valor": "DECLARANTE"
+							},
+							{
+								"clave": "CYG",
+								"valor": "CÓNYUGE"
+							}
+						],
+						"tipoBien": {
+							"clave": "MECA",
+							"valor": "MENAJE DE CASA (MUEBLES Y ACCESORIOS DE CASA)"
+						},
+						"transmisor": [
+							{
+								"tipoPersona": "FISICA",
+								"nombreRazonSocial": "",
+								"rfc": "",
+								"relacion": {
+									"clave": "HER",
+									"valor": "HERMANO(A)"
+								}
+							}
+						],
+						"tercero": [
+							{
+								"tipoPersona": "FISICA",
+								"nombreRazonSocial": "",
+								"rfc": ""
+							}
+						],
+						"descripcionGeneralBien": "DEMO",
+						"formaAdquisicion": {
+							"clave": "STC",
+							"valor": "SENTENCIA"
+						},
+						"formaPago": "NO APLICA",
+						"valorAdquisicion": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"fechaAdquisicion": "YYYY-MM-DD",
+						"motivoBaja": {
+							"clave": "NA",
+							"valor": "NO APLICA"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"inversiones": {
+				"ninguno": false,
+				"inversion": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"tipoInversion": {
+							"clave": "BANC",
+							"valor": "BANCARIA"
+						},
+						"subTipoInversion": {
+							"clave": "CNOM",
+							"valor": "CUENTA DE NÓMINA"
+						},
+						"titular": [
+							{
+								"clave": "DEC",
+								"valor": "DECLARANTE"
+							}
+						],
+						"tercero": [],
+						"numeroCuentaContrato": "",
+						"localizacionInversion": {
+							"pais": "MX",
+							"institucionRazonSocial": "",
+							"rfc": ""
+						},
+						"saldoSituacionActual": {
+							"valor": 0,
+							"moneda": "MXN"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"adeudos": {
+				"ninguno": false,
+				"adeudo": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"titular": [
+							{
+								"clave": "DEC",
+								"valor": "DECLARANTE"
+							},
+							{
+								"clave": "CYG",
+								"valor": "CÓNYUGE"
+							}
+						],
+						"tipoAdeudo": {
+							"clave": "CPER",
+							"valor": "CRÉDITO PERSONAL"
+						},
+						"numeroCuentaContrato": "",
+						"fechaAdquisicion": "YYYY-MM-DD",
+						"montoOriginal": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"otorganteCredito": {
+							"tipoPersona": "FISICA",
+							"nombreInstitucion": "",
+							"rfc": ""
+						},
+						"tercero": [
+							{
+								"tipoPersona": "FISICA",
+								"nombreRazonSocial": "",
+								"rfc": ""
+							}
+						],
+						"localizacionAdeudo": {
+							"pais": "MX"
+						},
+						"saldoInsolutoSituacionActual": {
+							"valor": 0,
+							"moneda": "MXN"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"prestamoOComodato": {
+				"ninguno": false,
+				"prestamo": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"duenoTitular": {
+							"tipoDuenoTitular": "FISICA",
+							"nombreTitular": "",
+							"rfc": "",
+							"relacionConTitular": ""
+						},
+						"tipoBien": {
+							"inmueble": {
+								"tipoInmueble": {
+									"clave": "CASA",
+									"valor": "CASA"
+								},
+								"domicilioMexico": {
+									"calle": "",
+									"numeroExterior": "0",
+									"numeroInterior": "0",
+									"coloniaLocalidad": "",
+									"municipioAlcaldia": {
+										"clave": "101",
+										"valor": "TUXTLA GUTIÉRREZ"
+									},
+									"entidadFederativa": {
+										"clave": "07",
+										"valor": "CHIAPAS"
+									},
+									"codigoPostal": "00000"
+								}
+							}
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			}
+		},
+		"interes": {
+			"participacion": {
+				"ninguno": false,
+				"participacion": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"tipoRelacion": "",
+						"nombreEmpresaSociedadAsociacion": "",
+						"rfc": "",
+						"porcentajeParticipacion": "0",
+						"tipoParticipacion": {
+							"clave": "ACCI",
+							"valor": "ACCIONISTA"
+						},
+						"recibeRemuneracion": true,
+						"montoMensual": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"ubicacion": {
+							"pais": "MX",
+							"entidadFederativa": {
+								"clave": "07",
+								"valor": "Chiapas"
+							}
+						},
+						"sector": {
+							"clave": "AGRI",
+							"valor": "AGRICULTURA"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"participacionTomaDecisiones": {
+				"ninguno": false,
+				"participacion": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"tipoRelacion": "",
+						"tipoInstitucion": {
+							"clave": "OSC",
+							"valor": "ORGANIZACIONES DE LA SOCIEDAD CIVIL"
+						},
+						"nombreInstitucion": "",
+						"rfc": "",
+						"puestoRol": "",
+						"fechaInicioParticipacion": "YYYY-MM-DD",
+						"recibeRemuneracion": true,
+						"montoMensual": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"ubicacion": {
+							"pais": "MX",
+							"entidadFederativa": {
+								"clave": "07",
+								"valor": "CHIAPAS"
+							}
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"apoyos": {
+				"ninguno": false,
+				"apoyo": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"tipoPersona": "FISICA",
+						"beneficiarioPrograma": {
+							"clave": "DC",
+							"valor": "DECLARANTE"
+						},
+						"nombrePrograma": "",
+						"institucionOtorgante": "",
+						"nivelOrdenGobierno": "",
+						"tipoApoyo": {
+							"clave": "SUB",
+							"valor": "SUBSIDIO"
+						},
+						"formaRecepcion": "",
+						"montoApoyoMensual": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"especifiqueApoyo": ""
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"representacion": {
+				"ninguno": false,
+				"representacion": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"tipoRelacion": "DECLARANTE",
+						"tipoRepresentacion": "REPRESENTANTE",
+						"fechaInicioRepresentacion": "YYYY-MM-DD",
+						"tipoPersona": "FISICA",
+						"nombreRazonSocial": "",
+						"rfc": "",
+						"recibeRemuneracion": true,
+						"montoMensual": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"ubicacion": {
+							"pais": "MX",
+							"entidadFederativa": {
+								"clave": "07",
+								"valor": "CHIAPAS"
+							}
+						},
+						"sector": {
+							"clave": "AGRI",
+							"valor": "AGRICULTURA"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"clientesPrincipales": {
+				"ninguno": false,
+				"cliente": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"realizaActividadLucrativa": true,
+						"tipoRelacion": "DECLARANTE",
+						"empresa": {
+							"nombreEmpresaServicio": "",
+							"rfc": ""
+						},
+						"clientePrincipal": {
+							"tipoPersona": "FISICA",
+							"nombreRazonSocial": "",
+							"rfc": ""
+						},
+						"sector": {
+							"clave": "AGRI",
+							"valor": "AGRICULTURA"
+						},
+						"montoAproximadoGanancia": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"ubicacion": {
+							"pais": "MX",
+							"entidadFederativa": {
+								"clave": "07",
+								"valor": "CHIAPAS"
+							}
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"beneficiosPrivados": {
+				"ninguno": false,
+				"beneficio": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"tipoPersona": "FISICA",
+						"tipoBeneficio": {
+							"clave": "S",
+							"valor": "SORTEO"
+						},
+						"beneficiario": [
+							{
+								"clave": "DC",
+								"valor": "DECLARANTE"
+							},
+							{
+								"clave": "HER",
+								"valor": "HERMANO(A)"
+							}
+						],
+						"otorgante": {
+							"tipoPersona": "FISICA",
+							"nombreRazonSocial": "",
+							"rfc": ""
+						},
+						"formaRecepcion": "MONETARIO",
+						"especifiqueBeneficio": "",
+						"montoMensualAproximado": {
+							"valor": 0,
+							"moneda": "MXN"
+						},
+						"sector": {
+							"clave": "AGRI",
+							"valor": "AGRICULTURA"
+						}
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"fideicomisos": {
+				"ninguno": false,
+				"fideicomiso": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"tipoRelacion": "DECLARANTE",
+						"tipoFideicomiso": "",
+						"tipoParticipacion": "",
+						"rfcFideicomiso": "",
+						"fideicomitente": {
+							"tipoPersona": "FISICA",
+							"nombreRazonSocial": "",
+							"rfc": ""
+						},
+						"fiduciario": {
+							"nombreRazonSocial": "",
+							"rfc": ""
+						},
+						"fideicomisario": {
+							"tipoPersona": "FISICA",
+							"nombreRazonSocial": "",
+							"rfc": ""
+						},
+						"sector": {
+							"clave": "AGRI",
+							"valor": "AGRICULTURA"
+						},
+						"extranjero": "MX"
+					}
+				],
+				"aclaracionesObservaciones": ""
+			}
+		},
+		"fiscal": {
+			"presento": false,
+			"url": ""
+		}
+	}
+}

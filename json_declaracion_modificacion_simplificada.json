@@ -1,0 +1,265 @@
+{
+	"metadata": {
+		"id_organismo": 0,
+		"organismo": "",
+		"formato": "SIMPLIFICADA",
+		"tipo": "MODIFICACION",
+		"fechaPresentacion": "YYYY-MM-DD",
+		"anio": 2025,
+		"actualizacionConflictoInteres": false
+	},
+	"declaracion": {
+		"situacionPatrimonial": {
+			"datosGenerales": {
+				"nombre": "",
+				"primerApellido": "",
+				"segundoApellido": "",
+				"curp": "",
+				"rfc": {
+					"rfc": "",
+					"homoClave": "XXX"
+				},
+				"correoElectronico": {
+					"institucional": "",
+					"personal": ""
+				},
+				"telefono": {
+					"casa": "",
+					"celularPersonal": ""
+				},
+				"situacionPersonalEstadoCivil": {
+					"clave": "SOL",
+					"valor": "SOLTERO (A)"
+				},
+				"regimenMatrimonial": {
+					"clave": "OTR",
+					"valor": "OTRO"
+				},
+				"paisNacimiento": "MX",
+				"nacionalidad": "MX",
+				"aclaracionesObservaciones": ""
+			},
+			"domicilioDeclarante": {
+				"domicilioMexico": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"coloniaLocalidad": "",
+					"municipioAlcaldia": {
+						"clave": "101",
+						"valor": "Tuxtla Gutiérrez"
+					},
+					"entidadFederativa": {
+						"clave": "07",
+						"valor": "Chiapas"
+					},
+					"codigoPostal": "XXXXX"
+				},
+				"domicilioExtranjero": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"ciudadLocalidad": "",
+					"estadoProvincia": "",
+					"pais": "MX",
+					"codigoPostal": ""
+				},
+				"aclaracionesObservaciones": "",
+				"domicilio": "MX"
+			},
+			"datosCurricularesDeclarante": {
+				"ninguno": false,
+				"escolaridad": [
+					{
+					"tipoOperacion": "AGREGAR",
+					"nivel": {
+					  "clave": "LIC",
+					  "valor": "LICENCIATURA"
+					},
+					"institucionEducativa": {
+					  "nombre": "",
+					  "ubicacion": "MX"
+					},
+					"carreraAreaConocimiento": "",
+					"estatus": "",
+					"documentoObtenido": "",
+					"fechaObtencion": "YYYY-MM-DD"
+				  }
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"datosEmpleoCargoComision": {
+				"tipoOperacion": "",
+				"nivelOrdenGobierno": "",
+				"ambitoPublico": "",
+				"nombreEntePublico": "",
+				"areaAdscripcion": "",
+				"empleoCargoComision": "",
+				"contratadoPorHonorarios": false,
+				"nivelEmpleoCargoComision": "",
+				"funcionPrincipal": "",
+				"fechaTomaPosesion": "",
+				"telefonoOficina": {
+					"telefono": "",
+					"extension": ""
+				},
+				"domicilioMexico": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"coloniaLocalidad": "",
+					"municipioAlcaldia": {
+						"clave": "101",
+						"valor": "Tuxtla Gutiérrez"
+					},
+					"entidadFederativa": {
+						"clave": "07",
+						"valor": "Chiapas"
+					},
+					"codigoPostal": ""
+				},
+				"domicilioExtranjero": {
+					"calle": "",
+					"numeroExterior": "",
+					"numeroInterior": "",
+					"ciudadLocalidad": "",
+					"estadoProvincia": "",
+					"pais": "MX",
+					"codigoPostal": ""
+				},
+				"aclaracionesObservaciones": "",
+				"cuentaConOtroCargoPublico": false,
+				"otroEmpleoCargoComision": {},
+				"domicilio": "MX"
+			},
+			"experienciaLaboral": {
+				"ninguno": false,
+				"experiencia": [
+					{
+						"tipoOperacion": "AGREGAR",
+						"ambitoSector": {
+							"clave": "PUB",
+							"valor": "PÚBLICO"
+						},
+						"nivelOrdenGobierno": "",
+						"ambitoPublico": "",
+						"nombreEntePublico": "",
+						"areaAdscripcion": "",
+						"empleoCargoComision": "",
+						"funcionPrincipal": "",
+						"fechaIngreso": "YYYY-MM-DD",
+						"fechaEgreso": "YYYY-MM-DD",
+						"ubicacion": "MX"
+					}
+				],
+				"aclaracionesObservaciones": ""
+			},
+			"ingresos": {
+				"remuneracionAnualCargoPublico": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"otrosIngresosAnualesTotal": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"actividadIndustrialComercialEmpresarial": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"actividades": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"nombreRazonSocial": "",
+							"tipoNegocio": ""
+						}
+					]
+				},
+				"actividadFinanciera": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"actividades": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"tipoInstrumento": {
+								"clave": "CAP",
+								"valor": "CAPITAL"
+							}
+						}
+					]
+				},
+				"serviciosProfesionales": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"servicios": [
+						{
+							"remuneracion": {
+								"valor": ,
+								"moneda": "MXN"
+							},
+							"tipoServicio": ""
+						}
+					]
+				},
+				"enajenacionBienes": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"bienes": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"tipoBienEnajenado": ""
+						}
+					]
+				},
+				"otrosIngresos": {
+					"remuneracionTotal": {
+						"valor": 0,
+						"moneda": "MXN"
+					},
+					"ingresos": [
+						{
+							"remuneracion": {
+								"valor": 0,
+								"moneda": "MXN"
+							},
+							"tipoIngreso": ""
+						}
+					]
+				},
+				"ingresoAnualNetoDeclarante": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"ingresoAnualNetoParejaDependiente": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"totalIngresosAnualesNetos": {
+					"valor": 0,
+					"moneda": "MXN"
+				},
+				"aclaracionesObservaciones": ""
+			}
+		},
+		"fiscal": {
+			"presento": false,
+			"url": ""
+		}
+	}
+}

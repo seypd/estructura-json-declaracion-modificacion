@@ -3,7 +3,7 @@
 		"id_organismo": 0,
 		"organismo": "",
 		"formato": "COMPLETA",
-		"tipo": "MODIFICACION",
+		"tipo": "MODIFICACION", //MODIFICACION ó MODIFICACIÓN
 		"fechaPresentacion": "YYYY-MM-DD",
 		"anio": 2025,
 		"actualizacionConflictoInteres": false
@@ -944,4 +944,5 @@
 		  "presento": false
 		}
 	}
+
 }

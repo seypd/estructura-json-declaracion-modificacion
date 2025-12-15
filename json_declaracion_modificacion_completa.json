@@ -149,6 +149,7 @@
             			"areaAdscripcion": "",
             			"area": "",
 						"empleoCargoComision": "",
+						"puesto": "",
 						"funcionPrincipal": "",
 						"fechaIngreso": "YYYY-MM-DD",
 						"fechaEgreso": "YYYY-MM-DD",
@@ -967,6 +968,7 @@
 	}
 
 }
+
 
 
 

@@ -262,8 +262,12 @@
 			}
 		},
 		"fiscal": {
-			"presento": false,
-			"url": ""
+		  "constanciaFiscal": {
+			"constancia": false,
+			"aclaracionesObservaciones": ""
+		  },
+		  "presento": false
 		}
 	}
 }
+

@@ -3,7 +3,7 @@
 		"id_organismo": 0,
 		"organismo": "",
 		"formato": "COMPLETA",
-		"tipo": "MODIFICACION", //MODIFICACION ó MODIFICACIÓN
+		"tipo": "MODIFICACION",
 		"fechaPresentacion": "YYYY-MM-DD",
 		"anio": 2025,
 		"actualizacionConflictoInteres": false
@@ -677,7 +677,7 @@
 				"prestamo": [
 					{
 						"tipoOperacion": "AGREGAR",
-						"tipoBienDesc":"",//INMUEBLE, VEHICULO
+						"tipoBienDesc":"",
 						"duenoTitular": {
 							"tipoDuenoTitular": "FISICA",
 							"nombreTitular": "",
@@ -968,7 +968,3 @@
 	}
 
 }
-
-
-
-

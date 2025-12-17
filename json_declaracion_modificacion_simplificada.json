@@ -3,7 +3,7 @@
 		"id_organismo": 0,
 		"organismo": "",
 		"formato": "SIMPLIFICADA",
-		"tipo": "MODIFICACION", //MODIFICACION ó MODIFICACIÓN
+		"tipo": "MODIFICACION",
 		"fechaPresentacion": "YYYY-MM-DD",
 		"anio": 2025,
 		"actualizacionConflictoInteres": false
@@ -263,9 +263,7 @@
 		},
 		"fiscal": {
 			"presento": false,
-			"url": ""
+			"url": ""
 		}
 	}
-
 }
-

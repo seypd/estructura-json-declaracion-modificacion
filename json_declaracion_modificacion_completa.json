@@ -704,7 +704,16 @@
 										"valor": "CHIAPAS"
 									},
 									"codigoPostal": "00000"
-								}
+								},
+								"domicilioExtranjero": {
+                                	"calle": "",
+                                	"numeroExterior": "",
+                                	"numeroInterior": "",
+                                	"ciudadLocalidad": "",
+                                	"estadoProvincia": "",
+                                	"pais": "",
+                                	"codigoPostal": ""
+                            	}
 							},
 							"vehiculo": {
 	                            "tipo": {
@@ -968,3 +977,4 @@
 	}
 
 }
+

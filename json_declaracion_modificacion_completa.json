@@ -141,6 +141,10 @@
 							"clave": "PUB",
 							"valor": "PÚBLICO"
 						},
+						"sector": {
+                            "clave": "",
+                            "valor": ""
+                        },
 						"nivelOrdenGobierno": "",
 						"ambitoPublico": "",
 						"nombreEntePublico": "",
@@ -977,4 +981,5 @@
 	}
 
 }
+
 
